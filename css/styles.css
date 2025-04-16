@@ -243,7 +243,7 @@ button {
 .team_item {
     width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
-
+    background-color: #fff;
 }
 
 .item_container {
@@ -302,7 +302,6 @@ button {
     line-height: 1.5;
 }
 
-.portfolio-img,
 .portfolio-list {
     display: flex;
     flex-wrap: wrap;
