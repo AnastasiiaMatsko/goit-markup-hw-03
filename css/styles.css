@@ -295,6 +295,7 @@ button {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 
 .portfolio-text {
@@ -322,7 +323,7 @@ button {
     border: 1px solid #e7e9fc;
     border-top: none;
     margin-bottom: 8px;
-    margin-bottom: 8px;
+
 
 }
 
